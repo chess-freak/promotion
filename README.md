@@ -2,7 +2,7 @@ Easy-H Portfolio Theme
 =========================
 
 게임 개발자를 위한 Jekyll 기반의 포트폴리오 블로그 테마입니다.
-**Soft UI / Glassmorphism** 스타일로 디자인되었습니다..
+**Soft UI / Glassmorphism** 스타일의 현대적인 디자인과 프로젝트 전시에 최적화된 기능을 제공합니다.
 
 ## ✨ 주요 특징
 - **Modern UI**: 유리 질감(Glassmorphism)과 부드러운 애니메이션이 적용된 세련된 디자인.
