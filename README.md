@@ -1,4 +1,4 @@
-Easy-H Portfolio Theme
+Chess Freak Portfolio Theme
 =========================
 
 게임 개발자를 위한 Jekyll 기반의 포트폴리오 블로그 테마입니다.
