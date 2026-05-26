@@ -1,8 +1,8 @@
 # Site settings
-title: EasyH
+title: Promotion
 email: skysea001010@gmail.com
-url: https://easy-h.github.io
-baseurl: 
+url: https://chess-freak.github.io/promotion/
+baseurl: /promotion
 description: "개발자용 깃허브 블로그 테마"
 keywords: "Game Programmer"
 locale: ko_KR
@@ -33,13 +33,13 @@ color:
 
 # Footer settings
 footer:
-  copyright: 이지헌 (EasyH)
+  copyright: Chess Freak
   location: Location
   social: Social
   credits: Credits
 
 # Credits content
-credits: 'Developed by Lee Ji-Heon (EasyH)'
+credits: 'Developed by Chess Freak'
 
 # Build settings
 markdown: kramdown
