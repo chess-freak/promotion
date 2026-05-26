@@ -50,7 +50,7 @@ social:                          # 프로젝트 관련 링크들
 ```
 
 ## Demo
-View this jekyll theme in action [here](https://easy-h.github.io/portfolio)
+View this jekyll theme in action [here](https://chess-freak.github.io/promotion/)
 
 <!--
 ## Screenshot
